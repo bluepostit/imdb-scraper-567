@@ -1,0 +1,48 @@
+---
+- :director: Frank Darabont
+  :title: The Shawshank Redemption
+  :year: 1994
+  :storyline: Two imprisoned men bond over a number of years, finding solace and eventual
+    redemption through acts of common decency.
+  :cast:
+  - Tim Robbins
+  - Morgan Freeman
+  - Bob Gunton
+- :director: Francis Ford Coppola
+  :title: The Godfather
+  :year: 1972
+  :storyline: An organized crime dynasty's aging patriarch transfers control of his
+    clandestine empire to his reluctant son.
+  :cast:
+  - Marlon Brando
+  - Al Pacino
+  - James Caan
+- :director: Francis Ford Coppola
+  :title: 'The Godfather: Part II'
+  :year: 1974
+  :storyline: The early life and career of Vito Corleone in 1920s New York City is
+    portrayed, while his son, Michael, expands and tightens his grip on the family
+    crime syndicate.
+  :cast:
+  - Al Pacino
+  - Robert Duvall
+  - Diane Keaton
+- :director: Christopher Nolan
+  :title: The Dark Knight
+  :year: 2008
+  :storyline: When the menace known as the Joker wreaks havoc and chaos on the people
+    of Gotham, Batman must accept one of the greatest psychological and physical tests
+    of his ability to fight injustice.
+  :cast:
+  - Christian Bale
+  - Heath Ledger
+  - Aaron Eckhart
+- :director: Sidney Lumet
+  :title: 12 Angry Men
+  :year: 1957
+  :storyline: A jury holdout attempts to prevent a miscarriage of justice by forcing
+    his colleagues to reconsider the evidence.
+  :cast:
+  - Martin Balsam
+  - John Fiedler
+  - Lee J. Cobb
